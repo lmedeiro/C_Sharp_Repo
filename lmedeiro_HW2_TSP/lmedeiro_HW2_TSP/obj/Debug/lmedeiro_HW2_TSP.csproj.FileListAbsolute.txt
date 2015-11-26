@@ -1,0 +1,9 @@
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\bin\Debug\lmedeiro_HW2_TSP.exe.config
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\bin\Debug\lmedeiro_HW2_TSP.exe
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\bin\Debug\lmedeiro_HW2_TSP.pdb
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\obj\Debug\lmedeiro_HW2_TSP.csprojResolveAssemblyReference.cache
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\obj\Debug\lmedeiro_HW2_TSP.mainWindow.resources
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\obj\Debug\lmedeiro_HW2_TSP.Properties.Resources.resources
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\obj\Debug\lmedeiro_HW2_TSP.csproj.GenerateResource.Cache
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\obj\Debug\lmedeiro_HW2_TSP.exe
+E:\dev\C#\lmedeiro_HW2_TSP\lmedeiro_HW2_TSP\obj\Debug\lmedeiro_HW2_TSP.pdb

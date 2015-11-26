@@ -1,0 +1,2 @@
+E:\dev\C#\lmedeiro_forecasting_project\lmedeiro_forecasting_project\bin\Debug\lmedeiro_forecasting_project.exe.config
+E:\dev\C#\C_Sharp_Repo\lmedeiro_forecasting_project\lmedeiro_forecasting_project\bin\Debug\lmedeiro_forecasting_project.exe.config
